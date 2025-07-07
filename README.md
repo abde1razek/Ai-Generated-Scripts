@@ -1,6 +1,10 @@
 # Ai-Generated-Scripts
 ## GitLabUserEnum
-Usage example
+### required Python packages
+```
+pip3 install requests tqdm
+```
+###Usage example
 ```
 python3 GitLabUserEnum.py --url 'http://gitlab..local' --wordlist top-usernames-shortlist.txt -v -t 10
 ```
