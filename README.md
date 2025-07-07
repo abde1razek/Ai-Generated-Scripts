@@ -4,7 +4,7 @@
 ```
 pip3 install requests tqdm
 ```
-###Usage example
+### Usage example
 ```
 python3 GitLabUserEnum.py --url 'http://gitlab..local' --wordlist top-usernames-shortlist.txt -v -t 10
 ```
